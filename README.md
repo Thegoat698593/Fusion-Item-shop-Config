@@ -59,3 +59,5 @@
 }
 
 4) Ok so where it says Athenacharacter those are skins, AthenaGlider is of course a glider so you get it | make sure you put the ID in the brackets so like this   "AthenaPickaxe:Pickaxe_ID_202_AshtonBoardwalk"
+
+5) Also really important! | YOU CANNOT CHOOSE A COSMETIC FROM SEASONS BEYOND SEASON 8 BECAUSE IT WILL NOT WORK AS THOSE COSMETCIS AREN'T IN S8 SO CHOOSE ONE FROM S1-S8 AND YOU WILL BE GOOD
