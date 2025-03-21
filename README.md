@@ -2,7 +2,7 @@
 
 1) Before you start making your custom shop make sure you read everything carefully so you don't have any troubles.
    
-2) Click the link below it will show you an example for a normal shop 
+2) This is what the shop will look like if you did everything correctly!
 ![Image](https://github.com/user-attachments/assets/4f9c00d6-75d1-4261-ae13-f6ee096743ed)
 3) understanding how it works | This is how it should look like all you have to do is copy this & then head to https://fortnite.gg/ and select a cosmetic you want and put it in there i know it's confusing but let me show you!
 
